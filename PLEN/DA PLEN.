@@ -4,14 +4,11 @@ PLEN:
     App designed to highlight 4 topics that aren't covered in middle school that will be useful to learn. 
     Designed in 4 levels, each level with a different topic. 
 
-
     Level 1: Public Speaking (Negotation, Persuasion, etc.)
     Level 2: Media Literacy (Biases, Propaganda, Basics of Video Editing, etc.)
     Level 3: Personal Finance (Budgeting, Taxes, Compound Interst, Investing, etc.)
     Level 4: Mental Health (Stress Management, Procrastination, etc.)
 
-    
-    
     After creating the app, we will host a 4-5 week long summer camp for middle schoolers to learn about these topics.
     At the end of the camp, we can publish the game via a website and give it to the parents/kids to play.
     We can also publish the game on the app store and play store. (Maybe, idk how this would work)
@@ -19,12 +16,11 @@ PLEN:
     App will include (WILL ALSO HAVE A VIDEO TUTORIAL ON HOW THE APP WORKS, ETC.):
         1) A tutorial for each level (Learn)
         2) A game for each level (Play)
-        3) A highscore game combining all the levels. (Highscore) => Will be designed kind of like 'Subway Surfers' or 'Dino Game'
-            Character will be a person running through a city/forest/place and will be presented with obstacles, that you as the user will have to 
-            solve by using the skills you learned in the previous levels.
-                a) During the camp, can have a competition to see who can get the highest score, and winner gets Candy or smth.
+        3) A highscore game combining all the levels. (Highscore) => Will be designed like 'Fireboy and Watergirl' 
+            Character will be presented with a map, and they will have to answer questions in order to get through the obstacles, such as a bridge or barrier opening. 
+                a) During the camp, we can have a competition to see who can get the lowest time, and winner gets Candy or smth.
         4) Settings
-            a) User can change the difficulty of the game.
+            a) User can change the difficulty of the game (Questions will get harder and less time given to answer).
             b) User can change the character.
             c) User can change the background.
             d) User can change the music.
@@ -34,14 +30,15 @@ PLEN:
 
     First, we will design the whole app with filler content, then we will go back and learn + add the actual content.
 
-
     App Steps:
-        1) Create the Homepage => (Hop ino the Game!, Video Tutorial) 
-        2) Create the World (Background, Character, etc.)
-        3) Create the Links to other things. (Learn, Play, Highscore, Settings)
+        1) Create the Homepage => Two Buttons => (Hop into the Game!, Video Tutorial) 
+        2) Create the World (Background, Character, etc.) 
+                                        (COMPLETE BY 8/26)
+        3) Create the Buttons to other pages. (Learn, Play, Highscore, Settings)
         4) Create the Learn Page (Level 1, Level 2, Level 3, Level 4)
         5) Create the Play Page (Level 1, Level 2, Level 3, Level 4)
-        6) Deep Dive into Learn Page
+        6) Create the Settings Page (Difficulty, Character, Background, Music, Language)
+        7) Deep Dive into Learn Page
             a) Create the Tutorial for Level 1 (Negotiation, Persuasion, etc.)
                 *) Create the Tutorial for Negotiation (What is Negotiation, How to Negotiate, etc.)
                 *) Create the Tutorial for Persuasion (What is Persuasion, How to Persuade, etc.)
